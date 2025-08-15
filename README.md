@@ -10,7 +10,15 @@ The goal of this project is to create a visual linguistic profile of Elon Musk b
 | **Data Visualization** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Matplotlib-E37400?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-025E8C?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/> |
 | **Work Environment** | <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/> |
 ---
+---
 
+### Data Sourcing
+The dataset used for this analysis was sourced from Kaggle. It contains a comprehensive collection of Elon Musk's tweets. A huge thank you to the creator for making this data publicly available.
+
+- **Dataset:** [All Elon Musk's Tweets by Andrada Olteanu](https://www.kaggle.com/datasets/andradaolteanu/all-elon-musks-tweets)
+- **Platform:** Kaggle
+
+---
 ### Analytical Process
 This project utilized a multi-tool workflow to demonstrate flexibility in data handling.
 1.  **Data Processing (Python):** Raw data containing tweet information was loaded into a Google Colab notebook. A Python script using the Pandas library was used to clean, process, and aggregate the frequency of key words and phrases.
