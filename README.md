@@ -7,9 +7,8 @@ The goal of this project is to create a visual linguistic profile of Elon Musk b
 | Category | Tools |
 |---|---|
 | **Data Handling** | <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/> |
-| **Data Visualization** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Matplotlib-E37400?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> <img src="https.img.shields.io/badge/Seaborn-025E8C?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/> |
+| **Data Visualization** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Matplotlib-E37400?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-025E8C?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/> |
 | **Work Environment** | <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/> |
-
 ---
 
 ### Analytical Process
