@@ -15,7 +15,7 @@ The goal of this project is to create a visual linguistic profile of Elon Musk b
 ### Data Sourcing
 The dataset used for this analysis was sourced from Kaggle. It contains a comprehensive collection of Elon Musk's tweets. A huge thank you to the creator for making this data publicly available.
 
-- **Dataset:** [All Elon Musk's Tweets by Andrada Olteanu](https://www.kaggle.com/datasets/andradaolteanu/all-elon-musks-tweets)
+- **Dataset:** [All Elon Musk's Tweets by Dada Lyndell](https://www.kaggle.com/datasets/dadalyndell/elon-musk-tweets-2010-to-2025-march)
 - **Platform:** Kaggle
 
 ---
