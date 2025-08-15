@@ -24,12 +24,12 @@ The final charts, created in Google Sheets from the Python-processed data, offer
 #### Chart 1: Top 10 Most Frequent Words
 This visualization highlights the hierarchy of single words in his day-to-day tweeting.
 
-![Bar Chart of Most Frequent Words](images/frequencyatoken.png)
+![Bar Chart of Most Frequent Words](images/FrequencyaToken.png)
 
 #### Chart 2: Top 10 Most Frequent Phrases
 This visualization focuses on two-word phrases, revealing his most common linguistic patterns.
 
-![Pie Chart of Word Categories](images/frequency a token2.png)
+![Pie Chart of Word Categories](images/FrequencyaToken2.png)
 
 ---
 
