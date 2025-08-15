@@ -24,12 +24,12 @@ The final charts, created in Google Sheets from the Python-processed data, offer
 #### Chart 1: Top 10 Most Frequent Words
 This visualization highlights the hierarchy of single words in his day-to-day tweeting.
 
-![Bar Chart of Most Frequent Words](images/FrequencyaToken.png)
+![Bar Chart of Most Frequent Words](https://github.com/MagdalenaRomaniecka/Musk-Communication-Analysis/blob/main/data/images/Frequency%20a%20Token.png)
 
 #### Chart 2: Top 10 Most Frequent Phrases
 This visualization focuses on two-word phrases, revealing his most common linguistic patterns.
 
-![Pie Chart of Word Categories](images/FrequencyaToken2.png)
+![Pie Chart of Word Categories](https://github.com/MagdalenaRomaniecka/Musk-Communication-Analysis/blob/main/data/images/Frequency%20a%20Token%202.png)
 
 ---
 
