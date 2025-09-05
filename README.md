@@ -22,7 +22,6 @@ The goal of this project is to create a visual linguistic profile of Elon Musk b
 To ensure transparency and allow for verification of the results, the full Python code used for this analysis is available in this repository.
 
 * **Jupyter Notebook:** **https://github.com/MagdalenaRomaniecka/Anatomy-of-a-Tweetstorm/blob/main/notebooks/musk_tweet_analysis%20(1).ipynb
-* [musk_tweet_analysis(1).ipynb](/notebooks/musk_tweet_analysis(1).ipynb)**
 * **Dataset:** The raw dataset must be downloaded from Kaggle (see Data Sourcing section).
 
 ---
