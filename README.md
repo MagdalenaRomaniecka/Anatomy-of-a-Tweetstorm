@@ -1,3 +1,4 @@
+*This repository is one of four components of a larger analysis. [View the main project hub, "The Musk Protocol," here.](https://github.com/MagdalenaRomaniecka/The-Musk-Protocol)*
 # Project "Elon, What?!": A Linguistic Deconstruction of a Visionary's Mind
 
 ### Table of Contents
