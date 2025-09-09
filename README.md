@@ -20,8 +20,8 @@ The final charts, created in Google Sheets from Python-processed data, offer a c
 #### Top 10 Most Frequent Words & Phrases
 These visualizations highlight the hierarchy of single words and two-word phrases, revealing his most common linguistic patterns.
 
-![Bar Chart of Most Frequent Words](/images/Frequency_a_Token.png)
-![Pie Chart of Word Categories](/images/Frequency_a_Token2.png)
+![Bar Chart of Most Frequent Words](/images/FrequencyaToken.png)
+![Pie Chart of Word Categories](/images/FrequencyaToken2.png)
 
 ---
 
