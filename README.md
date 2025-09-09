@@ -55,7 +55,7 @@ The data reveals a communication style that is highly strategic, blending inform
 ## 🔄 Reproducibility & Resources
 
 * **Dataset:** The analysis is based on the [All Elon Musk's Tweets dataset on Kaggle](https://www.kaggle.com/datasets/dadalyndell/elon-musk-tweets-2010-to-2025-march).
-* **Analysis Code:** The full Python code is available in the [Jupyter Notebook](musk_tweet_analysis (1).ipynb) in this repository.
+* **Analysis Code:** The full Python code is available in the [Jupyter Notebook](./notebooks/musk_tweet_analysis (1).ipynb) in this repository.
 
 ---
 
