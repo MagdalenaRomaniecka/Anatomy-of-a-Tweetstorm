@@ -69,3 +69,8 @@ The data reveals a communication style that is highly strategic, blending inform
 * Measure and track public sentiment on key topics.
 * Correlate key text metrics with business events like stock price changes.
 * Benchmark Musk's communication style against other tech CEOs.
+
+ ## Limitations & Future Work
+
+* **Limitations:** This analysis is based solely on quantitative text and engagement metrics and does not account for the author's external influence or brand recognition. The sentiment analysis is limited to the English language.
+* **Future Work:** A follow-up analysis could include a network graph to visualize how key accounts amplified the tweetstorm. Topic modeling could also be used to compare the themes of this storm with other viral threads on the same subject. 
