@@ -1,4 +1,4 @@
-*This repository is one of four components of a larger analysis. [View the main project hub, "The Musk Protocol," here.](https://github.com/MagdalenaRomaniecka/The-Musk-Protocol)*
+> This repository is one of **five** components of a larger analysis. **[View the main project hub, "The Musk Protocol," here.](https://github.com/MagdalenaRomaniecka/The-Musk-Protocol-A-Multi-Layered-Analysis-of-Influence-)**
 > ## ⚠️ Archived Version
 >
 > **This project has been replaced by a new, more advanced analysis. To see the current version, please visit the repository below:**
