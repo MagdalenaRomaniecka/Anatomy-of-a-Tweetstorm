@@ -41,7 +41,6 @@ These visualizations highlight the hierarchy of single words and two-word phrase
 
 ![Pie Chart of Word Categories](/images/FrequencyaToken2.png)
 *Fig. 2: Sentiment Score per Tweet in the Series. The analysis shows a fascinating emotional arc, starting with a highly positive sentiment score of **[e.g., +0.8]** in the initial tweets. A sharp pivot occurs at tweet #[Number], where the tone becomes **[e.g., slightly negative, -0.3]**, coinciding with the introduction of the main problem or conflict. This pattern suggests a deliberate narrative structure designed to guide the audience through a specific emotional journey.*
----
 
 ## 🔬 Analytical Process
 This project utilized a multi-tool workflow to demonstrate flexibility in data handling:
