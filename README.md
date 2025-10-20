@@ -82,10 +82,9 @@ The data reveals a communication style that is highly strategic, blending inform
 * Correlate key text metrics with business events like stock price changes.
 * Benchmark Musk's communication style against other tech CEOs.
 
- ## Limitations & Future Work
+ ### Limitations & Future Work
+* **Limitations:** This analysis is based solely on quantitative text and engagement metrics and does not account for the author's external influence or brand recognition.
+* **Future Work:** A follow-up analysis could include a network graph to visualize how key accounts amplified the tweetstorm. Topic modeling could also be used to compare the themes of this storm with other viral threads.
 
-* **Limitations:** This analysis is based solely on quantitative text and engagement metrics and does not account for the author's external influence or brand recognition. The sentiment analysis is limited to the English language.
-* **Future Work:** A follow-up analysis could include a network graph to visualize how key accounts amplified the tweetstorm. Topic modeling could also be used to compare the themes of this storm with other viral threads on the same subject. 
-*This repository is one of four components of a larger analysis. [View the main project hub, "The Musk Protocol," here.](https://github.com/MagdalenaRomaniecka/The-Musk-Protocol)*
-ebook to calculate word and phrase frequencies.
-
+---
+> **Note:** This repository is one of **five** components of a larger analysis. **[View the main project hub, "The Musk Protocol," here.](https://github.com/MagdalenaRomaniecka/The-Musk-Protocol-A-Multi-Layered-Analysis-of-Influence-)**
