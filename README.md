@@ -37,9 +37,11 @@ The final charts, created in Google Sheets from Python-processed data, offer a c
 These visualizations highlight the hierarchy of single words and two-word phrases, revealing his most common linguistic patterns.
 
 ![Bar Chart of Most Frequent Words](/images/FrequencyaToken.png)
+
 *Fig. 1: Engagement per Tweet in the Series. A clear spike in engagement is visible at tweet #[Number], which [briefly describe the tweet's content, e.g., posed a direct question to the audience].*
 
 ![Pie Chart of Word Categories](/images/FrequencyaToken2.png)
+
 *Fig. 2: Sentiment Score per Tweet in the Series. The analysis shows a fascinating emotional arc, starting with a highly positive sentiment score of **[e.g., +0.8]** in the initial tweets. A sharp pivot occurs at tweet #[Number], where the tone becomes **[e.g., slightly negative, -0.3]**, coinciding with the introduction of the main problem or conflict. This pattern suggests a deliberate narrative structure designed to guide the audience through a specific emotional journey.*
 
 ## 🔬 Analytical Process
